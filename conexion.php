@@ -1,5 +1,6 @@
 
 <?php
+//estos datos se modifican para la 4ta firma
 $servidor = "localhost";
 $usuario = "root";
 $password = "";
